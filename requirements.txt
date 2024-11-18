@@ -1,2 +1,1 @@
-tabulate
-pymaybe
+cuallee==0.14.0
